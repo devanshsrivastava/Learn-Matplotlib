@@ -9,3 +9,13 @@ Matplotlib produces publication-quality figures in a variety of hardcopy formats
 
 For installation instructions and requirements, see the [install documentation](https://matplotlib.org/users/installing.html)
 
+# Topics to be Covered
+
+* Introduction
+* Format Strings
+* Legends/Grid/Axis
+* Bar Chart
+* Histogram
+* Pie Chart
+* Subplots
+
