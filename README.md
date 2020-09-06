@@ -19,3 +19,16 @@ For installation instructions and requirements, see the [install documentation](
 * Pie Chart
 * Subplots
 
+# Learn-Seaborn
+
+Seaborn is a Python data visualization library based on matplotlib.
+It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+## Installation
+
+To install the latest release of seaborn, you can use pip:
+> pip install seaborn
+
+It’s also possible to install the released version using conda:
+> conda install seaborn
+
